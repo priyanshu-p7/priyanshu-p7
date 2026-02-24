@@ -1,28 +1,11 @@
-<h1>💫 About Me:</h1>
+<h1>💫 About Me</h1>
 
-<p>🎯 <strong>I’m currently working on</strong><br>
-Building impactful student-focused web platforms powered by AI and automation.
-</p>
-
-<p>🧑‍🤝‍🧑 <strong>I’m looking to collaborate on</strong><br>
-Full-stack projects, AI-integrated applications, and open-source tools that solve real academic problems.
-</p>
-
-<p>🤝 <strong>I’m looking for help with</strong><br>
-Improving AI prompt engineering, backend scalability, and implementing efficient multi-language support.
-</p>
-
-<p>🌱 <strong>I’m currently learning</strong><br>
-Advanced Java, DSA with strong problem-solving focus, backend architecture, and practical AI integration.
-</p>
-
-<p>💬 <strong>Ask me about</strong><br>
-Building educational tools from scratch, navigating B.Tech CSE strategically, and converting ideas into real deployments.
-</p>
-
-<p>⚡ <strong>Fun fact</strong><br>
-I prefer building real projects over consuming endless tutorials.
-</p>
+<p>🎯 <strong>Focus:</strong> AI-driven education platforms.</p>
+<p>🧑‍🤝‍🧑 <strong>Interested in:</strong> Impactful tech projects.</p>
+<p>🤝 <strong>Improving:</strong> Prompt engineering & backend logic.</p>
+<p>🌱 <strong>Studying:</strong> Advanced Java & DSA.</p>
+<p>💬 <strong>Talk to me about:</strong> Student productivity tech.</p>
+<p>⚡ <strong>Edge:</strong> I build consistently.</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanshu_kumar._008) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-p7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@priyans02757071) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshukumar94460@gmail.com) 
