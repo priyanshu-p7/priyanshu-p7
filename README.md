@@ -3,7 +3,7 @@
 <p>🎯 <strong>Focus:</strong> AI-driven education platforms.</p>
 <p>🧑‍🤝‍🧑 <strong>Interested in:</strong> Impactful tech projects.</p>
 <p>🤝 <strong>Improving:</strong> Prompt engineering & backend logic.</p>
-<p>🌱 <strong>Studying:</strong> Advanced Java & DSA.</p>
+<p>🌱 <strong>Studying:</strong> Advanced c++ & DSA.</p>
 <p>💬 <strong>Talk to me about:</strong> Student productivity tech.</p>
 <p>⚡ <strong>Edge:</strong> I build consistently.</p>
 
