@@ -1,4 +1,22 @@
 <h1>💫 About Me</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priyanshu%20Kumar%20Prasad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Developer;Building+Production+AI+at+Scale;Open+Source+Enthusiast+%F0%9F%9A%80;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
+  
+  <p>
+    <!-- <a href="https://www.linkedin.com/in/priyanshu-p7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://harshdev3d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+    <a href="mailto:priyanshukumar94460@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://instagram.com/harsh_patil1302"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=priyanshu-p7&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+  
+</div>
 
 <p>🎯 <strong>Focus:</strong> AI-driven education platforms.</p>
 <p>🧑‍🤝‍🧑 <strong>Interested in:</strong> Impactful tech projects.</p>
