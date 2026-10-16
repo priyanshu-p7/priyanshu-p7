@@ -1,215 +1,96 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:050505,100:0d0d0d&height=240&section=header&text=PRIYANSHU%20KUMAR%20PRASAD&fontSize=40&fontColor=00FF9C&fontAlignY=38&stroke=00FF9C&strokeWidth=1&animation=fadeIn&desc=%E2%9F%A8%20Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Hackathon%20Winner%20%E2%9F%A9&descSize=16&descColor=8b949e&descAlignY=62" width="100%"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=00FF9C&background=00000000&center=true&vCenter=true&width=720&height=45&lines=%24+whoami+%E2%86%92+Priyanshu;%24+building+AI-driven+education+platforms;%24+stack+%E2%86%92+MERN+%7C+React+%7C+TypeScript+%7C+C%2B%2B;%24+hackathons+%E2%86%92+3%C3%97+podium+finisher+%F0%9F%8F%86;%24+status+%E2%86%92+open+to+SDE+roles+%F0%9F%9A%80" alt="Typing SVG"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/priyanshu-p7"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=000000&color=1f1f1f"/></a>
-  <a href="mailto:priyanshukumar94460@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C&labelColor=000000&color=1f1f1f"/></a>
-  <a href="https://x.com/priyans02757071"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00FF9C&labelColor=000000&color=1f1f1f"/></a>
-  <a href="https://instagram.com/priyanshu_kumar._008"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF9C&labelColor=000000&color=1f1f1f"/></a>
-  <a href="https://leetcode.com/priyanshu-p7"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00FF9C&labelColor=000000&color=1f1f1f"/></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyanshu-p7&label=VIEWS&color=000000&labelColor=0d0d0d&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/priyanshu-p7?label=FOLLOWERS&style=flat-square&color=000000&labelColor=0d0d0d&logo=github&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/CGPA-9.25-000000?style=flat-square&labelColor=0d0d0d&logo=googlescholar&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00FF9C?style=flat-square&labelColor=0d0d0d"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF9C,100:000000&height=2&section=header" width="100%"/>
-
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-<h2 align="center">⟨ 01 · ABOUT ⟩</h2>
-
 <div align="center">
 
-```bash
-┌──(priyanshu㉿bbdu)-[~/about]
-└─$ cat profile.json
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Priyanshu%20Kumar%20Prasad&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:0f172a,50:312e81,100:06b6d4&fontAlignY=38&desc=Software%20Developer%20%7C%20Building%20useful%20things%20for%20real%20people&descAlignY=60&descSize=16" width="100%" alt="Priyanshu Kumar Prasad — Software Developer" />
+
+<a href="https://www.linkedin.com/in/priyanshu-p7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:priyanshukumar94460@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/priyanshu-p7"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/CodeSage_7"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+
+<br />
+
+*Computer Science student • Full-stack developer • Curious problem solver*
 
 </div>
 
-```json
-{
-  "name": "Priyanshu Kumar Prasad",
-  "role": "Full Stack Developer",
-  "education": "B.Tech CSE @ BBD University, Lucknow",
-  "cgpa": 9.25,
-  "academic_rank": { "year_1": 2, "year_2": 1 },
-  "focus": "AI-driven education platforms",
-  "learning": ["Advanced C++", "DSA", "Prompt Engineering", "Backend Architecture"],
-  "passion": ["Student productivity tech", "Impactful projects", "Open source"],
-  "superpower": "I build consistently.",
-  "ask_me_about": ["React", "MERN", "ATS & Resume tooling", "Hackathon strategy"]
-}
-```
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF9C,100:000000&height=2&section=header" width="100%"/>
+### A little about me
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-<h2 align="center">⟨ 02 · TECH ARSENAL ⟩</h2>
+I'm a Computer Science and Engineering student at **Babu Banarasi Das University**, focused on turning practical problems into thoughtful software. I enjoy building full-stack products, exploring AI-powered workflows, and making useful tools easier to use.
 
-<div align="center">
+- 🎓 **B.Tech CSE** · CGPA **9.25**
+- 🧠 **350+** coding problems solved across platforms
+- 🏆 **2nd-year academic rank 1** · **1st-year rank 2** in my department
+- 🚀 Hackathon finalist and podium finisher
+- 🌱 Currently sharpening **C++, data structures & algorithms, and backend engineering**
 
-<sub><b>LANGUAGES</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,ts,html,css&theme=dark&perline=8" /><br/><br/>
-
-<sub><b>FRAMEWORKS & LIBRARIES</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite&theme=dark&perline=8" /><br/><br/>
-
-<sub><b>DATABASES</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark&perline=8" /><br/><br/>
-
-<sub><b>TOOLS & PLATFORMS</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,arduino&theme=dark&perline=8" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DSA-000000?style=flat-square&labelColor=0d0d0d&color=00FF9C"/>
-<img src="https://img.shields.io/badge/OOP-000000?style=flat-square&labelColor=0d0d0d&color=00FF9C"/>
-<img src="https://img.shields.io/badge/DBMS-000000?style=flat-square&labelColor=0d0d0d&color=00FF9C"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-000000?style=flat-square&labelColor=0d0d0d&color=00FF9C"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-000000?style=flat-square&labelColor=0d0d0d&color=00FF9C"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF9C,100:000000&height=2&section=header" width="100%"/>
-
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-<h2 align="center">⟨ 03 · FEATURED PROJECTS ⟩</h2>
+### Selected projects
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>📚 BBD College Papers</h3>
-      <sub><code>STUDENT RESOURCE PLATFORM</code></sub>
-      <br/><br/>
-      One hub for <b>1200+ previous year papers</b> across <b>18+ branches</b>, plus notes, roadmaps, blogs, holidays, mess menu and analytics tools.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=38B2AC"/>
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-      <br/><br/>
-      <a href="https://github.com/priyanshu-p7/REPO_NAME"><img src="https://img.shields.io/badge/VIEW%20REPO-000000?style=for-the-badge&logo=github&logoColor=00FF9C&color=1f1f1f"/></a>
+      <p>A student resource hub bringing together <b>1,200+ previous-year papers</b> and study resources across <b>18+ branches</b>, with organized notes, roadmaps, university links, and campus resources.</p>
+      <p><b>Built with:</b> React · JavaScript · Tailwind CSS</p>
+      <a href="https://github.com/Tanay2920003/BBD-COLLEGEPAPERS-STUDIO">View project ↗</a>
     </td>
-    <td width="33%" valign="top">
-      <h3>🤖 AI Resume Analyser</h3>
-      <sub><code>SERVERLESS ATS CHECKER</code></sub>
-      <br/><br/>
-      Drag-and-drop resume upload with <b>real-time AI feedback</b>. Scores content quality, tone, skill relevance and missing sections, with zero backend via Puter.js.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6"/>
-      <img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Puter.js-000000?style=flat-square&logoColor=00FF9C"/>
-      <br/><br/>
-      <a href="https://github.com/priyanshu-p7/REPO_NAME"><img src="https://img.shields.io/badge/VIEW%20REPO-000000?style=for-the-badge&logo=github&logoColor=00FF9C&color=1f1f1f"/></a>
+    <td width="50%" valign="top">
+      <h3>🤖 AI-Powered Resume Analyser</h3>
+      <p>A resume feedback platform with drag-and-drop uploads, ATS-oriented scoring, and AI insights into writing, skills, and missing sections.</p>
+      <p><b>Built with:</b> React · TypeScript · React Router · Zustand · Puter.js</p>
+      <a href="https://github.com/priyanshu-p7/AI-Powered-Resume-Analyzer">View project ↗</a>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>🎟️ Eventify</h3>
-      <sub><code>EVENT DISCOVERY & TICKETING</code></sub>
-      <br/><br/>
-      Full-stack MERN app with <b>attendee and organizer roles</b>, JWT auth, <b>QR ticket verification</b>, organizer analytics and <b>atomic booking</b> to stop seat overselling.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248"/>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-      <br/><br/>
-      <a href="https://github.com/priyanshu-p7/REPO_NAME"><img src="https://img.shields.io/badge/VIEW%20REPO-000000?style=for-the-badge&logo=github&logoColor=00FF9C&color=1f1f1f"/></a>
+      <p>A full-stack event discovery and ticketing app with attendee and organizer roles, JWT authentication, QR ticket verification, organizer analytics, and booking logic designed to prevent seat overselling.</p>
+      <p><b>Built with:</b> MongoDB · Express · React · Node.js · JWT · ImageKit</p>
+      <a href="https://github.com/priyanshu-p7/Eventify">View project ↗</a>
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF9C,100:000000&height=2&section=header" width="100%"/>
+### Highlights
 
-<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
-<h2 align="center">⟨ 04 · TROPHY ROOM ⟩</h2>
+| 🎖️ Achievement | 📌 Detail |
+|:--|:--|
+| **Kalpathon · Akhil Jyot'25** | 3rd place at BBDU |
+| **InnVedX · Utkarsh** | Top 5 finish |
+| **Lucknow MULTI-CITY · Hack-a-Skill** | Qualified for the finals |
+| **LetsUpgrade Frontend Hackathon** | 3rd place |
+| **LeetCode** | Peak rating **1511** · Top **43.7%** |
 
-<div align="center">
+### Tools I reach for
 
-| | ACHIEVEMENT | WHERE |
-|:-:|:--|:--|
-| 🥉 | **3rd Place**, Kalpathon Hackathon | Akhil Jyot '25, BBDU Lucknow |
-| 🥉 | **3rd Place**, Frontend Hackathon | LetsUpgrade |
-| ⭐ | **Top 5**, InnVedX Hackathon | Utkarsh, BBD University |
-| 🚀 | **Qualified for Finals**, Lucknow MULTICITY | Hack-a-Skill × Celesta '25, IIT Patna |
-| 🎓 | **Rank 2** (Year 1) and **Rank 1** (Year 2) | CSE Department, BBDU |
-| 💻 | **350+ problems** solved, LeetCode max rating **1511** | LeetCode, Codeforces, GFG |
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mongodb,postgres,mysql,html,css,tailwind,git,github,postman,vscode" alt="C++, Java, Python, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL, MySQL, HTML, CSS, Tailwind, Git, GitHub, Postman, Visual Studio Code" />
+</p>
 
-</div>
+**Also familiar with:** SQL · Data Structures & Algorithms · OOP · DBMS · Computer Networks · Operating Systems · Vercel · ImageKit
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshu-p7&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF9C,100:000000&height=2&section=header" width="100%"/>
-
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-<h2 align="center">⟨ 05 · ANALYTICS ⟩</h2>
-
-<div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=priyanshu-p7&show_icons=true&hide_border=false&border_color=1f1f1f&bg_color=000000&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&count_private=true&rank_icon=github" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-p7&layout=compact&langs_count=8&hide_border=false&border_color=1f1f1f&bg_color=000000&title_color=00FF9C&text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=priyanshu-p7&hide_border=false&background=000000&border=1f1f1f&stroke=1f1f1f&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-p7&bg_color=000000&color=00FF9C&line=00FF9C&point=ffffff&area=true&area_color=00FF9C&hide_border=true&title_color=00FF9C" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/priyanshu-p7?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF9C,100:000000&height=2&section=header" width="100%"/>
-
-<!-- ═══════════════════════ ROADMAP ═══════════════════════ -->
-<h2 align="center">⟨ 06 · CURRENT QUEST ⟩</h2>
-
-```diff
-+ Building AI-driven education platforms that make student life easier
-+ Going deep on advanced C++ and DSA
-+ Sharpening prompt engineering and backend logic
-+ Shipping consistently and contributing to open source
-- Procrastination.exe has stopped working
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00FF9C,100:000000&height=2&section=header" width="100%"/>
-
-<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
-<h2 align="center">⟨ 07 · LET'S CONNECT ⟩</h2>
+### GitHub at a glance
 
 <div align="center">
 
-```bash
-$ ./connect.sh --idea --internship --hackathon-team
-> Connection established. Waiting for your message...
-```
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanshu-p7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-p7&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1" alt="Most used languages" />
 
-<a href="mailto:priyanshukumar94460@gmail.com"><img src="https://img.shields.io/badge/SAY%20HELLO-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C&color=1f1f1f"/></a>
-<a href="https://linkedin.com/in/priyanshu-p7"><img src="https://img.shields.io/badge/CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C&color=1f1f1f"/></a>
+<br />
 
-<br/>
-
-<sub>⭐ Like what you see? Drop a star on my repos. ⭐</sub>
+<img src="https://nirzak-streak-stats.vercel.app/?user=priyanshu-p7&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:000000&height=120&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+### Have a useful problem to solve?
+
+I’d love to hear about it. **[Connect on LinkedIn](https://www.linkedin.com/in/priyanshu-p7/)** · **[Send me an email](mailto:priyanshukumar94460@gmail.com)**
+
+<sub>Building steadily, learning every day. ✨</sub>
+
+</div>
