@@ -1,96 +1,137 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Priyanshu%20Kumar%20Prasad&fontSize=42&fontColor=ffffff&animation=fadeIn&color=0:0f172a,50:312e81,100:06b6d4&fontAlignY=38&desc=Software%20Developer%20%7C%20Building%20useful%20things%20for%20real%20people&descAlignY=60&descSize=16" width="100%" alt="Priyanshu Kumar Prasad — Software Developer" />
-
-<a href="https://www.linkedin.com/in/priyanshu-p7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:priyanshukumar94460@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/priyanshu-p7"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://leetcode.com/u/CodeSage_7"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=PRIYANSHU%20KUMAR%20PRASAD&fontSize=38&fontColor=E5E7EB&fontAlignY=38&animation=fadeIn&color=0:05070B,45:111827,100:172554&desc=I%20turn%20ideas%20into%20useful%20software.&descSize=16&descAlignY=60&descColor=67E8F9" alt="Dark wave banner with Priyanshu Kumar Prasad's name" />
 
 <br />
 
-*Computer Science student • Full-stack developer • Curious problem solver*
+`CSE UNDERGRAD` &nbsp;·&nbsp; `FULL-STACK BUILDER` &nbsp;·&nbsp; `ALWAYS LEARNING`
+
+<br /><br />
+
+[![GitHub](https://img.shields.io/badge/GITHUB-09090B?style=for-the-badge&logo=github&logoColor=E5E7EB)](https://github.com/priyanshu-p7)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-09090B?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/priyanshu-p7/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-09090B?style=for-the-badge&logo=leetcode&logoColor=FBBF24)](https://leetcode.com/u/CodeSage_7)
+[![Email](https://img.shields.io/badge/EMAIL-09090B?style=for-the-badge&logo=gmail&logoColor=F87171)](mailto:priyanshukumar94460@gmail.com)
 
 </div>
 
----
+<br />
 
-### A little about me
+```text
+┌─ ABOUT ────────────────────────────────────────────────────────────┐
+│  Building thoughtful software for the messy, interesting bits of   │
+│  real life: finding resources, booking events, improving resumes.   │
+│                                                                    │
+│  Currently studying Computer Science at BBDU, Lucknow. I like      │
+│  clean interfaces, dependable backend logic, and the moment a       │
+│  useful idea finally works end to end.                             │
+└────────────────────────────────────────────────────────────────────┘
+```
 
-I'm a Computer Science and Engineering student at **Babu Banarasi Das University**, focused on turning practical problems into thoughtful software. I enjoy building full-stack products, exploring AI-powered workflows, and making useful tools easier to use.
+<div align="center">
 
-- 🎓 **B.Tech CSE** · CGPA **9.25**
-- 🧠 **350+** coding problems solved across platforms
-- 🏆 **2nd-year academic rank 1** · **1st-year rank 2** in my department
-- 🚀 Hackathon finalist and podium finisher
-- 🌱 Currently sharpening **C++, data structures & algorithms, and backend engineering**
+### `01 / CURRENT BUILD`
 
-### Selected projects
+</div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 BBD College Papers</h3>
-      <p>A student resource hub bringing together <b>1,200+ previous-year papers</b> and study resources across <b>18+ branches</b>, with organized notes, roadmaps, university links, and campus resources.</p>
-      <p><b>Built with:</b> React · JavaScript · Tailwind CSS</p>
-      <a href="https://github.com/Tanay2920003/BBD-COLLEGEPAPERS-STUDIO">View project ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI-Powered Resume Analyser</h3>
-      <p>A resume feedback platform with drag-and-drop uploads, ATS-oriented scoring, and AI insights into writing, skills, and missing sections.</p>
-      <p><b>Built with:</b> React · TypeScript · React Router · Zustand · Puter.js</p>
-      <a href="https://github.com/priyanshu-p7/AI-Powered-Resume-Analyzer">View project ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🎟️ Eventify</h3>
-      <p>A full-stack event discovery and ticketing app with attendee and organizer roles, JWT authentication, QR ticket verification, organizer analytics, and booking logic designed to prevent seat overselling.</p>
-      <p><b>Built with:</b> MongoDB · Express · React · Node.js · JWT · ImageKit</p>
-      <a href="https://github.com/priyanshu-p7/Eventify">View project ↗</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### `01.1` &nbsp; BBD COLLEGE PAPERS
+### A campus resource, made searchable.
+
+One organized home for **1,200+ previous-year papers** and learning resources across **18+ branches**. Includes notes, roadmaps, university links, and helpful campus information.
+
+`REACT` &nbsp; `JAVASCRIPT` &nbsp; `TAILWIND`
+
+[↗ &nbsp; EXPLORE THE REPO](https://github.com/Tanay2920003/BBD-COLLEGEPAPERS-STUDIO)
+
+</td>
+<td width="50%" valign="top">
+
+#### `01.2` &nbsp; AI RESUME ANALYSER
+### Feedback that helps you iterate.
+
+An AI-powered resume review experience with drag-and-drop uploads, ATS-oriented scoring, and focused feedback on writing, skill relevance, and missing sections.
+
+`REACT` &nbsp; `TYPESCRIPT` &nbsp; `ZUSTAND` &nbsp; `PUTER.JS`
+
+[↗ &nbsp; EXPLORE THE REPO](https://github.com/priyanshu-p7/AI-Powered-Resume-Analyzer)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### `01.3` &nbsp; EVENTIFY
+### From event discovery to verified entry.
+
+A full-stack event platform for attendees and organizers: event creation, bookings, QR ticket verification, organizer analytics, and atomic booking logic designed to avoid overselling seats.
+
+`MONGODB` &nbsp; `EXPRESS` &nbsp; `REACT` &nbsp; `NODE.JS` &nbsp; `JWT` &nbsp; `IMAGEKIT`
+
+[↗ &nbsp; EXPLORE THE REPO](https://github.com/priyanshu-p7/Eventify)
+
+</td>
+</tr>
 </table>
-
-### Highlights
-
-| 🎖️ Achievement | 📌 Detail |
-|:--|:--|
-| **Kalpathon · Akhil Jyot'25** | 3rd place at BBDU |
-| **InnVedX · Utkarsh** | Top 5 finish |
-| **Lucknow MULTI-CITY · Hack-a-Skill** | Qualified for the finals |
-| **LetsUpgrade Frontend Hackathon** | 3rd place |
-| **LeetCode** | Peak rating **1511** · Top **43.7%** |
-
-### Tools I reach for
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mongodb,postgres,mysql,html,css,tailwind,git,github,postman,vscode" alt="C++, Java, Python, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL, MySQL, HTML, CSS, Tailwind, Git, GitHub, Postman, Visual Studio Code" />
-</p>
-
-**Also familiar with:** SQL · Data Structures & Algorithms · OOP · DBMS · Computer Networks · Operating Systems · Vercel · ImageKit
-
-### GitHub at a glance
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanshu-p7&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-p7&layout=compact&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1" alt="Most used languages" />
+### `02 / TOOLKIT`
 
-<br />
+**LANGUAGES** &nbsp; C++ · Java · Python · JavaScript · SQL  
+**WEB** &nbsp; React · Node.js · Express · HTML · CSS  
+**DATA** &nbsp; MongoDB · PostgreSQL · MySQL  
+**WORKFLOW** &nbsp; Git · GitHub · Postman · VS Code · Vercel · ImageKit  
+**FOUNDATIONS** &nbsp; DSA · OOP · DBMS · Computer Networks · Operating Systems
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=priyanshu-p7&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub contribution streak" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,express,mongodb,postgres,mysql,html,css,tailwind,git,github,postman,vscode&theme=dark" alt="Technologies: C++, Java, Python, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL, MySQL, HTML, CSS, Tailwind, Git, GitHub, Postman, Visual Studio Code" />
+
+### `03 / PROOF OF WORK`
 
 </div>
 
----
+| **9.25** | **350+** | **1511** | **#1** |
+|:---:|:---:|:---:|:---:|
+| CGPA · B.Tech CSE | Problems solved | Peak LeetCode rating | 2nd-year CSE rank |
+
+<details>
+<summary><b>More milestones</b> &nbsp;·&nbsp; open the log</summary>
+<br />
+
+- 🥉 **3rd place** — Kalpathon, Akhil Jyot'25 at BBDU
+- 🥉 **3rd place** — LetsUpgrade Frontend Hackathon
+- ✦ **Top 5** — InnVedX at Utkarsh, BBD University
+- 🎯 **Finalist** — Hack-a-Skill Lucknow MULTI-CITY
+- 📈 **Top 43.7%** — LeetCode
+- 🎓 **Academic ranks:** 2nd in year one, 1st in year two (CSE department)
+
+</details>
 
 <div align="center">
 
-### Have a useful problem to solve?
+### `04 / GITHUB SIGNAL`
 
-I’d love to hear about it. **[Connect on LinkedIn](https://www.linkedin.com/in/priyanshu-p7/)** · **[Send me an email](mailto:priyanshukumar94460@gmail.com)**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=priyanshu-p7&show_icons=true&hide_border=true&bg_color=05070B&title_color=67E8F9&icon_color=A78BFA&text_color=C9D1D9&ring_color=67E8F9" alt="GitHub activity overview" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-p7&layout=compact&hide_border=true&bg_color=05070B&title_color=67E8F9&text_color=C9D1D9" alt="Most used languages" />
 
-<sub>Building steadily, learning every day. ✨</sub>
+<br />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=priyanshu-p7&hide_border=true&background=05070B&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=71717A" alt="GitHub contribution streak" />
+
+<br /><br />
+
+```text
+$ next: keep learning → keep shipping → repeat
+```
+
+**Have an interesting problem or project in mind?**  
+[Let’s connect on LinkedIn](https://www.linkedin.com/in/priyanshu-p7/) &nbsp;·&nbsp; [Email me](mailto:priyanshukumar94460@gmail.com)
+
+<br />
+
+<sub>Designed in the dark. Built one commit at a time. &nbsp;·&nbsp; <a href="https://github.com/priyanshu-p7">@priyanshu-p7</a></sub>
 
 </div>
