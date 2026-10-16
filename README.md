@@ -1,19 +1,6 @@
-<!-- ══════════════════════════ T H E   V O I D ══════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=260&section=header&text=ENTER%20THE%20VOID&fontSize=54&fontColor=FF0033&fontAlignY=40&stroke=FF0033&strokeWidth=1&animation=twinkling&desc=%E2%80%94%20where%20ideas%20compile%20in%20the%20dark%20%E2%80%94&descSize=16&descColor=6b6b6b&descAlignY=64" width="100%"/>
-</div>
-
 <div align="center">
 
-```
-██████╗ ██████╗ ██╗██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗
-██╔══██╗██╔══██╗██║╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║
-██████╔╝██████╔╝██║ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║██║   ██║
-██╔═══╝ ██╔══██╗██║  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║
-██║     ██║  ██║██║   ██║   ██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝
-╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=PRIYANSHU%20KUMAR%20PRASAD&fontSize=38&fontColor=E5E7EB&fontAlignY=38&animation=fadeIn&color=0:05070B,45:111827,100:172554&descSize=16&descAlignY=60&descColor=67E8F9" alt="Dark wave banner with Priyanshu Kumar Prasad's name" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=FF0033&background=00000000&center=true&vCenter=true&width=760&height=45&lines=%3E+initializing+void.exe+...;%3E+full+stack+developer+%E2%80%A2+ai+builder;%3E+building+AI-driven+education+platforms;%3E+4+hackathon+finishes+%E2%80%A2+2+podiums;%3E+status%3A+awake.+shipping.+always." alt="Typing SVG"/>
