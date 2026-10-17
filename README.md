@@ -109,58 +109,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=2&section=header" width="100%"/>
 
-<!-- ══════════════════════════ 03 · ARTIFACTS ══════════════════════════ -->
-
-<h3 align="center">▓▒░ 03 · ARTIFACTS ░▒▓</h3>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>◈ BBD COLLEGE PAPERS</h3>
-      <sub><code>STUDENT RESOURCE PLATFORM</code></sub>
-      <br/><br/>
-      One hub for <b>1200+ previous year papers</b> across <b>18+ branches</b>, plus notes, roadmaps, blogs, holidays, mess menu and analytics tools.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwind-css&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/priyanshu-p7/REPO_NAME"><img src="https://img.shields.io/badge/OPEN%20FILE-000000?style=for-the-badge&logo=github&logoColor=FF0033&labelColor=000000&color=111111"/></a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>◈ AI RESUME ANALYSER</h3>
-      <sub><code>SERVERLESS ATS CHECKER</code></sub>
-      <br/><br/>
-      Drag-and-drop upload with <b>real-time AI feedback</b>. Scores content quality, tone, skill relevance and missing sections, with zero backend via Puter.js.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Zustand-0a0a0a?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Puter.js-0a0a0a?style=flat-square"/>
-      <br/><br/>
-      <a href="https://github.com/priyanshu-p7/REPO_NAME"><img src="https://img.shields.io/badge/OPEN%20FILE-000000?style=for-the-badge&logo=github&logoColor=FF0033&labelColor=000000&color=111111"/></a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>◈ EVENTIFY</h3>
-      <sub><code>EVENT DISCOVERY & TICKETING</code></sub>
-      <br/><br/>
-      Full-stack MERN app with <b>attendee and organizer roles</b>, JWT auth, <b>QR ticket verification</b>, organizer analytics and <b>atomic booking</b> to stop seat overselling.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express-0a0a0a?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/priyanshu-p7/REPO_NAME"><img src="https://img.shields.io/badge/OPEN%20FILE-000000?style=for-the-badge&logo=github&logoColor=FF0033&labelColor=000000&color=111111"/></a>
-    </td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=2&section=header" width="100%"/>
 
 <!-- ══════════════════════════ 04 · BOSS FIGHTS ══════════════════════════ -->
 
-<h3 align="center">▓▒░ 04 · BOSS FIGHTS CLEARED ░▒▓</h3>
+<h3 align="center">▓▒░ 03 · BOSS FIGHTS CLEARED ░▒▓</h3>
 
 <div align="center">
 
@@ -181,7 +133,7 @@
 
 <!-- ══════════════════════════ 05 · TELEMETRY ══════════════════════════ -->
 
-<h3 align="center">▓▒░ 05 · TELEMETRY ░▒▓</h3>
+<h3 align="center">▓▒░ 04 · TELEMETRY ░▒▓</h3>
 
 <div align="center">
   <img height="185" src="https://github-readme-stats.vercel.app/api?username=priyanshu-p7&show_icons=true&hide_border=false&border_color=111111&bg_color=000000&title_color=FF0033&icon_color=FF0033&text_color=9a9a9a&count_private=true&rank_icon=github" />
@@ -197,12 +149,12 @@
 </div>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/priyanshu-p7?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/codesage_7?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=2&section=header" width="100%"/>
 
-<!-- ══════════════════════════ 06 · LONG GAME ══════════════════════════ -->
+<!-- ══════════════════════════ 05 · LONG GAME ══════════════════════════ -->
 
 <h3 align="center">▓▒░ 06 · THE LONG GAME ░▒▓</h3>
 
@@ -217,7 +169,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0033,100:000000&height=2&section=header" width="100%"/>
 
-<!-- ══════════════════════════ 07 · TRANSMISSION ══════════════════════════ -->
+<!-- ══════════════════════════ 06 · TRANSMISSION ══════════════════════════ -->
 
 <h3 align="center">▓▒░ 07 · OPEN A CHANNEL ░▒▓</h3>
 
